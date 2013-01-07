@@ -1,0 +1,121 @@
+{
+ "name": " My Profile",
+ "children": [
+  {
+   "name": "Education",
+   "children": [
+    {
+     "name": " SSC ",
+     "children": [
+     {"name": " Batch : 2003-2004"},
+     {"name": " School : JMJ High School, Nakkalagutta, Warangal."}
+     ]
+    },
+    {
+     "name": " +2 ",
+     "children": [
+     {"name": " Batch : 2004-2006"},
+     {"name": " Major : Maths,Physics & Chemistry"},
+     {"name": " College : S.S Junior College, Hanamkonda, Warangal. "}
+     ]
+    },
+    {
+     "name": "Bachelors Degree",
+     "children": [
+      {"name": " Batch : 2006-2010"},
+      {"name": " Major : Information Technology ", "size": 7074},
+      {"name": " College : Kamala Institute of Technology & Science, Singapur. ", "size": 7074}
+     ]
+    },
+    {
+      "name": "Higher Studies",
+      "children": [
+      {"name": " Planning to do my Masters ( lol ) "}
+      ]
+    }
+   ]
+  },
+  {
+   "name": "sKILLS & Expertise",
+   "children": [
+    {"name": "Ruby on Rails", "size": 17010},
+    {"name": "Ruby", "size": 5842},
+    {"name": "Rails"},
+    {"name": "Rabbit MQ", "size": 1041},
+    {"name": "Haml", "size": 5176},
+    {"name": "Backbone.js, d3.js", "size": 449},
+    {"name": "Mustache", "size": 5593},
+    {"name": "Coffee Script", "size": 5534},
+    {"name": "Advanced Jquery", "size": 9201},
+    {"name": "Git", "size": 19975},
+    {"name": "Server Management", "size": 1116},
+    {"name": "Quick learner", "size": 6006}
+   ]
+  },
+  {"name": "Relational Database",
+  "children" : [
+  {"name": "Mysql", "size": 8833}
+  ]},
+  {
+   "name": "No Sql",
+   "children": [
+    {"name": "MongoDB", "size": 8833}
+   ]
+  },
+  {
+   "name": "Ruby Gems",
+   "children": [
+    {"name": "I have developed a Ruby Gem Safari Layout 0.1.4", "size": 4116},
+    {"name": "Couple of other Ruby Gems in progress..."}
+   ]
+  },
+  {"name": "Birthday", 
+  "children": [
+  {"name": "20th Sep 1989."},
+  {"name": "Virgo"}
+  ]},
+  {
+   "name": "Marital Status",
+   "children": [
+    {"name": "Single", "size": 1101}
+   ]
+  },
+  {
+   "name": "Interests",
+   "children" :[
+  {"name": "Beer While Coding :P hehe"}
+   ]},
+  {
+   "name": "HONORS & AWARDS",
+   "children": [
+    {"name": " State First Place for computer control Robot in 2008 ", "size": 8258},
+    {"name": " State First Place for Hand free remote control ( A robot which moves depending on gestures of figures of hand ) in 2009", "size": 10001},
+    {"name": "National Level Second Place for presenting paper on 'NANO ROBOTS' in 2009 "},
+    {"name": " Organized Kitsozen National level Robotic workshop 10 in association with IIT Khanpur and Technophilia Company.  "}
+   ]
+  },
+  {
+   "name": "Experience",
+   "children": [
+    {
+     "name": "Projects",
+     "children": [
+      {"name": "Coke FM", "size": 1302},
+      {"name": "Coke Messenger", "size": 24593},
+      {"name": "LionSher", "size": 652},
+      {"name": "Dezineconnect", "size": 636},
+      {"name": "Sociomuzic"},
+      {"name": "My Campus Clone"},
+      {"name": "CGR Foundation Risk Management System"},
+      {"name": "And Few Amazing applications..."}
+     ]
+    },
+    {"name": "Finally", 
+    "children": [
+    {"name": "I have 2 Years & 8 months of Development Experience !!"},
+    {"name": " If you got my way of Representing myself.. Woah, you are my correct Boss Hire ME !!! "}
+    ]}
+   ]
+  }
+ ]
+}
